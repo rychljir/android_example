@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Transactions</string>
+    <string name="action_settings">Settings</string>
+
+    <!--    MAIN         -->
+    <string name="main_title">Transactions</string>
+
+    <!--    DETAIL         -->
+    <string name="detail_title">Detail</string>
+    <string name="detail_amount">Amount</string>
+    <string name="detail_date">Date</string>
+
+</resources>
